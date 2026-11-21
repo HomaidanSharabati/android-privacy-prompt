@@ -1,6 +1,6 @@
 <div align="center">
 
-# Android Privacy Prompt
+<img src="assets/banner.png" alt="Android Privacy Prompt. An AI agent waits for your decision: 'Remove gba.emulator?' with Keep and Remove buttons." width="100%">
 
 **This prompt turns an AI coding agent into a careful Android privacy auditor.**
 It works over ADB, needs no root, and the agent asks you before every change.
